@@ -1,0 +1,17 @@
+{
+  "name": "trabalho-do-pedro",
+  "version": "1.0.0",
+  "description": "Simulação de investimentos",
+  "main": "a.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {}
+}
